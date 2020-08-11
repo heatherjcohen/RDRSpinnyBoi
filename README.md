@@ -2,7 +2,7 @@
 Radio Drama Revival Podcast Recommendation Twitterbot 
 
 
-I find respond to tweets asking for a recommendation with a podcast recommendation
-from our lovely list of recommended podcasts. 
+This Twitterbot replies to tweets asking for podcast recommendations with a randomly chosen podcast 
+from our list of RDR approved podcasts. 
 
-Upgraded from an IRL spinnywheel, now think and spin. 
+https://twitter.com/SpinnyBoiRDR
